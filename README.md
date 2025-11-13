@@ -49,8 +49,8 @@
 ![image](https://github.com/user-attachments/assets/239c15b3-490e-464d-81b4-9508256d0359)
 
 
-### Name: BHARANI KUMAR S
-### Register Number: 212224230035
+### Name: CHANDRU P
+### Register Number: 212223110007
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
